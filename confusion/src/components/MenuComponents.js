@@ -59,6 +59,8 @@ class Menu extends Component {
             );
         });
 
+        console.log(menu);
+
         return (
           <div className="container">
             <div className="row">
