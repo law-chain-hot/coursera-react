@@ -4,6 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css'; // it could override the bootStrap above
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+// Week2 router
+import 'font-awesome/css/font-awesome.css';
+import 'bootstrap-social/bootstrap-social.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
